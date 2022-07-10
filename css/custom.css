@@ -287,7 +287,8 @@ header {
     text-align: center;
     text-shadow: 4px 3px 0 rgba(0,0,0,0.0);
     letter-spacing: -1px;
-    font-weight: 400;
+    font-weight: 700;
+	color: #157fda;
 }
 body.clinic_version .first-section h2 {
     color: #1f1f1f;
